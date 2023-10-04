@@ -1,0 +1,3 @@
+"term","estimate","std.error","statistic","p.value","log_transform","significance","tech","GEO","estimate_label"
+"Shelter costs (monthly)",2855,"2.7149","10.5161",5.05940052501661e-25,"250757386590842.88%","***","Tech","Canada","$2,855"
+"Shelter costs (monthly)",1275,"0.5576","22.8643",5.72541378912704e-112,"34446905.25%","***","Tech","US","$1,275"

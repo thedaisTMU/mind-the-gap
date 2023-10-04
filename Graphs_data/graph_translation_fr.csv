@@ -1,0 +1,51 @@
+﻿Figure,English,French
+"Figure 1, Figure 2, Figure 3, Figure 4, Figure 5, Figure 6, Figure 9, Figure 10, Figure 11, Figure 12",Non-tech,Professions non technologiques
+"Figure 1, Figure 2, Figure 3, Figure 4, Figure 5, Figure 6, Figure 9, Figure 10, Figure 11, Figure 12",Tech,Professions technologiques
+"Figure 1, Figure 2, Figure 10, Figure 15, Figure 16, Figure 17",Canada,Canada
+"Figure 1, Figure 2, Figure 10, Figure 15, Figure 16, Figure 17",US,États-Unis
+"Figure 3, Figure 4",Men,Hommes
+"Figure 3, Figure 4",Women,Femmes
+"Figure 5, Figure 6, Figure 11, Figure 12",Bachelor's degree,Baccalauréat
+"Figure 5, Figure 6, Figure 11, Figure 12",College,Diplôme d’études collégiales
+"Figure 5, Figure 6, Figure 11, Figure 12",Doctorate,Doctorat
+"Figure 5, Figure 6, Figure 11, Figure 12",High School,Diplôme d’études secondaires
+"Figure 5, Figure 6",No degree,Aucun diplôme
+"Figure 5, Figure 6, Figure 11, Figure 12",Master's degree,Maîtrise
+"Figure 7, Figure 8, Figure 13, Figure 14",Black,Noir
+"Figure 7, Figure 13",Arab,Arabe
+"Figure 7, Figure 8, Figure 13, Figure 14",Filipino,Philippin
+"Figure 7, Figure 8, Figure 13, Figure 14",Korean,Coréen
+"Figure 7, Figure 8, Figure 13, Figure 14",Southeast Asian,Asiatique du Sud-Est
+"Figure 7, Figure 8, Figure 13, Figure 14",Latin American,Latino-Américain
+"Figure 7, Figure 13",West Asian,Asiatique occidental
+"Figure 7, Figure 8, Figure 13, Figure 14",South Asian,Sud-Asiatique
+Figure 7,Not a visible minority,Pas une minorité visible
+"Figure 7, Figure 8, Figure 13, Figure 14",Japanese,Japonais
+"Figure 7, Figure 8, Figure 13, Figure 14",Chinese,Chinois
+Figure 8,White,Blanc
+"Figure 8, Figure 14",Native Hawaiian or Pacific Islander,Natif d’Hawaï ou des îles du Pacifique
+"Figure 8, Figure 14",American Indian and/or Alaskan Native,Amérindien ou natif de l’Alaska
+Figure 17,Last Refresh Grant Gross Value,Valeur brute du dernier avantage sur capitaux propres
+Figure 17,Total Equity Gross Value,Valeur brute du total des actions
+Figure 17,Target Incentive Pay,Rémunération au rendement cible
+Figure 1,"Median wages for Canada and the US, all work types",Salaires médians au Canada et aux États-Unis – tous types de travail
+Figure 2,"Median wages for Canada and the US, full-time and full-year workers",Salaires médians au Canada et aux États-Unis – personnes qui travaillent à temps plein toute l’année
+Figure 3,"Median wages in Canada for women and men, all work types",Salaires médians des hommes et des femmes au Canada – tous types de travail
+Figure 4,"Median wages in the US for women and men, all work types",Salaires médians des hommes et des femmes aux États-Unis – tous types de travail
+Figure 5,"Median wages for Canada by highest education credential, all work types",Salaires médians au Canada selon le niveau de scolarité atteint – tous types de travail
+Figure 6,"Median wages for the US by highest education credential, all work types",Salaires médians aux États-Unis selon le niveau de scolarité atteint – tous types de travail
+Figure 7,"Median wages for tech workers in Canada by racial identity, all work types",Salaires médians des travailleurs technologiques au Canada selon l’origine ethnique – tous types de travail
+Figure 8,"Median wages for tech workers in the US by racial identity, all work types",Salaires médians des travailleurs technologiques aux États-Unis selon l’origine ethnique – tous types de travail
+Figure 9,Wage premiums associated with working in the US over Canada,Avantage de salaire lié au fait de travailler aux États-Unis par rapport au Canada
+Figure 10,Incremental wage premium by gender in Canada and the US,Avantage de salaire supplémentaire selon le genre au Canada et aux États-Unis
+Figure 11,Incremental wage premium by education credential in Canada,Avantage de salaire supplémentaire selon le niveau de scolarité au Canada
+Figure 12,Incremental wage premium by education credential in the US,Avantage de salaire supplémentaire selon le niveau de scolarité aux États-Unis
+Figure 13,Incremental wage premium attributed to racial identities for tech workers in Canada,Avantage de salaire supplémentaire selon l’origine ethnique des travailleurs technologiques au Canada
+Figure 14,Incremental wage premium attributed to racial identities for tech workers in the US,Avantage de salaire supplémentaire selon l’origine ethnique des travailleurs technologiques aux États-Unis
+Figure 15,Incremental wage premium to working in a tech hub for tech workers,Avantage de salaire supplémentaire des travailleurs technologiques qui travaillent dans un carrefour technologique
+Figure 16,Incremental wage premium to a $100 increase in average shelter costs for tech workers,Avantage de salaire supplémentaire des travailleurs technologiques en fonction d’une augmentation de 100 $ des frais de logement moyens
+Figure 17,Median non-wage compensation for tech workers in Canada and the US,Rémunération indirecte médiane des travailleurs technologiques au Canada et aux États-Unis
+"Figure 1, Figure 2, Figure 3, Figure 4, Figure 5, Figure 6, Figure 7, Figure 8","Median wage ($CAD, 2021)","Salaire médian ($ CA, 2021)"
+"Figure 9, Figure 10, Figure 11, Figure 12, Figure 13, Figure 14, Figure 15, Figure 16","Wage premium ($CAD, 2021)","Avantage de salaire ($ CA, 2021)"
+"Figure 9, Figure 10, Figure 11, Figure 12, Figure 13, Figure 14, Figure 15, Figure 16",Bolded values indicate significance at a 5% level,Les valeurs en caractères gras indiquent un niveau de signification de 5 %.
+Figure 17,"Median value ($CAD, 2021)","Valeur médiane ($CAD, 2021)"

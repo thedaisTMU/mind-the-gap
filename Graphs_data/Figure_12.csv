@@ -1,0 +1,11 @@
+term,estimate,std.error,statistic,p.value,log_transform,significance,tech,GEO,estimate_label
+Bachelor's degree,51595.0271,24895.3478,2.0725,0.039083526361328,Inf,**,Tech,US,"$51,595"
+College diploma,37834.759,25699.5257,1.4722,0.142026606556117,Inf,,Tech,US,"$37,835"
+Doctorate,116825.5873,26946.3593,4.3355,1.99389495709276e-5,Inf,***,Tech,US,"$116,826"
+High School,21974.4761,25559.2808,0.8597,0.390622785339582,Inf,,Tech,US,"$21,974"
+Master's degree,76469.5075,25115.7709,3.0447,0.00253794122078414,Inf,***,Tech,US,"$76,470"
+Bachelor's degree,28549.2371,2848.5084,10.0225,1.89839027274007e-23,Inf,***,Non-tech,US,"$28,549"
+College diploma,15933.1963,2955.9778,5.3902,7.32320229113667e-8,Inf,***,Non-tech,US,"$15,933"
+Doctorate,89565.5213,4010.7045,22.3316,5.87023463206606e-106,Inf,***,Non-tech,US,"$89,566"
+High School,11751.624,2805.3215,4.189,2.84369581784148e-5,Inf,***,Non-tech,US,"$11,752"
+Master's degree,49009.5748,3104.107,15.7886,5.41957858610263e-55,Inf,***,Non-tech,US,"$49,010"

@@ -1,0 +1,11 @@
+term,estimate,std.error,statistic,p.value,log_transform,significance,tech,GEO,estimate_label
+Bachelor's degree,11925.3618,5551.9941,2.1479,0.0322070115251243,Inf,**,Tech,Canada,"$11,925"
+College diploma,4891.1926,5628.9844,0.8689,0.385310042029365,Inf,,Tech,Canada,"$4,891"
+Doctorate,28117.0483,5732.1679,4.9051,1.27168159301594e-6,Inf,***,Tech,Canada,"$28,117"
+High School,-1126.8514,5671.6713,-0.1987,0.84259478740815,-100,,Tech,Canada,"-$1,127"
+Master's degree,16375.5119,5581.3342,2.934,0.00350307534151981,Inf,***,Tech,Canada,"$16,376"
+Bachelor's degree,16033.2472,959.2454,16.7144,8.82823192567921e-62,Inf,***,Non-tech,Canada,"$16,033"
+College diploma,11889.3285,956.5821,12.429,3.54551476812153e-35,Inf,***,Non-tech,Canada,"$11,889"
+Doctorate,31544.7692,1225.4104,25.7422,4.84329594284801e-141,Inf,***,Non-tech,Canada,"$31,545"
+High School,6764.7067,958.3056,7.059,1.80151009091668e-12,Inf,***,Non-tech,Canada,"$6,765"
+Master's degree,22680.0826,1002.2188,22.6299,2.61670995272542e-110,Inf,***,Non-tech,Canada,"$22,680"
